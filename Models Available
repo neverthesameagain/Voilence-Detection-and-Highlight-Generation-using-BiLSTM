@@ -1,0 +1,12 @@
+Available Models and Their Accuracy
+
+
+MobileNet Bi LTSM : 97%
+DeVTr : 96%
+YoloV8 : 91%
+Temperal Fusion CNN +LTSM : 91%
+CNN+LTSM : 89%
+ResNet50v2 : 86.6 &
+Inception V3: 78%
+
+WIll be going with MobileNet Bi LTSM with 16FPS analysis
