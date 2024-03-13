@@ -1,7 +1,7 @@
 Available Models and Their Accuracy
 
 
-MobileNet Bi LTSM : 97%
+MobileNet Bi LTSM : 99%
 DeVTr : 96%
 YoloV8 : 91%
 Temperal Fusion CNN +LTSM : 91%
