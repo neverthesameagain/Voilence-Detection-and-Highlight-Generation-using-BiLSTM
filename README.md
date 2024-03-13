@@ -5,7 +5,7 @@ This project aims to develop a video classification model capable of accurately 
 
 ## Dataset
 
-The Real Life Violence Situations Dataset can be accessed [here](https://link-to-dataset). It contains video samples of real-life violence situations along with non-violence video samples.
+The Real Life Violence Situations Dataset can be accessed [here]([https://link-to-dataset](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset/data)). It contains video samples of real-life violence situations along with non-violence video samples.
 
 ## Implementation
 
