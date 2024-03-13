@@ -1,6 +1,3 @@
-Sure, here's a draft for your README.md file on GitHub:
-
----
 
 # Real Life Violence Situations Dataset Video Classification
 
