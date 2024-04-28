@@ -1,6 +1,4 @@
-Certainly! Here's the updated README.md file with the provided information added:
 
-```markdown
 # Fight Scene Detection for Movie Highlight Generation System
 
 ## Overview
@@ -29,7 +27,7 @@ In the era of AI-driven automation, this project addresses the need for efficien
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/fight-scene-detection.git
+   git clone https://github.com/neverthesameagain/Voilence-Detection-and-Highlight-Generation-using-BiLSTM.git
    ```
 
 2. Install the required dependencies:
