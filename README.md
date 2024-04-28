@@ -1,6 +1,8 @@
 # Real Life Violence Situations Dataset Video Classification
 
 This project aims to develop a video classification model capable of accurately distinguishing between violence and non-violence video samples using the Real Life Violence Situations Dataset.
+The generated model and the essential documents can be accessed on:
+https://drive.google.com/drive/folders/1eYFkV4TVnYlCwhSINmhCt9l4nWoLaMUQ?usp=sharing
 
 ## Dataset
 
